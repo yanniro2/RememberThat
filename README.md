@@ -12,13 +12,13 @@ Thanks to watching this for checking out this front-end samples Web and Mobile d
 
 **To do this of HTML , CSS (SASS) and JS(React).**
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### View online
 
 [https://yanniro2.github.io/RememberThat]
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
