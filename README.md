@@ -12,6 +12,10 @@ Thanks to watching this for checking out this front-end samples Web and Mobile d
 
 In the project directory, you can run:
 
+### View online
+
+[https://yanniro2.github.io/RememberThat]
+
 ### `npm start`
 
 Runs the app in the development mode.\
