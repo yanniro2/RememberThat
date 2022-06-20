@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RememberThat/static/css/main.3bd07fd6.css",
+    "main.js": "/RememberThat/static/js/main.247b53d9.js",
+    "static/js/787.67d59641.chunk.js": "/RememberThat/static/js/787.67d59641.chunk.js",
+    "static/media/holding-phone.jpg": "/RememberThat/static/media/holding-phone.a2c7d22846662ab931a8.jpg",
+    "static/media/person-1.jfif": "/RememberThat/static/media/person-1.bbea6ac7c4645e7ad06b.jfif",
+    "static/media/person-2.jfif": "/RememberThat/static/media/person-2.631d80a29452f1563e18.jfif",
+    "static/media/person-3.jpg": "/RememberThat/static/media/person-3.26c9ebdb053663e19952.jpg",
+    "static/media/illustration.svg": "/RememberThat/static/media/illustration.296ba3fd9662f463f398816496e63899.svg",
+    "static/media/dots.svg": "/RememberThat/static/media/dots.2be08fd5734c2d9a00ae.svg",
+    "index.html": "/RememberThat/index.html",
+    "static/media/bullet.svg": "/RememberThat/static/media/bullet.e0ed90944f38d09d8bc7.svg",
+    "static/media/video.svg": "/RememberThat/static/media/video.db5c14278bbc8e1b063627f5caa5f965.svg",
+    "static/media/close.svg": "/RememberThat/static/media/close.604f17ae9e7f7ab96de76a3408313180.svg",
+    "static/media/menu.svg": "/RememberThat/static/media/menu.9dbc5a3a96ad85a57422263699b1695d.svg",
+    "main.3bd07fd6.css.map": "/RememberThat/static/css/main.3bd07fd6.css.map",
+    "main.247b53d9.js.map": "/RememberThat/static/js/main.247b53d9.js.map",
+    "787.67d59641.chunk.js.map": "/RememberThat/static/js/787.67d59641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd07fd6.css",
+    "static/js/main.247b53d9.js"
+  ]
+}
