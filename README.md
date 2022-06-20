@@ -2,7 +2,11 @@
 
 Thanks to watching this for checking out this front-end samples Web and Mobile design to code
 
+### Web
+
 ![Design preview for the  RemeberThat app component coding to web ](./Design/web.png)
+
+### Mobile Responsive Design
 
 ![Design preview for the  RemeberThat app component coding to Mobile ](./Design/mobile.png)
 
